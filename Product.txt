@@ -1,0 +1,4 @@
+id,code,name,price,categories,stock,availability
+1,100287,hammer,124;2;130,l1-tools;l2-tools-records,cdmx,true
+2,10076554,toilet,1244;1000;1300,l1-toilets;l2-bathroom,cdmx,true
+3,1009762,door,1500;1300;1600,l1-doors;l2-wooden-doors;l3-small-doors,new york,false
